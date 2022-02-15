@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    color: cyan;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+body {
+    background-color: darkred;
+}
+
+img{
+    border: 1px solid rgb(12, 235, 243);
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: darkcyan;
+font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: cyan;
+    font-size: 30px;
+}
+
+div {
+    text-align: center;
+    font-size: 20px;
+    color: cyan;
+}
+
+h3 {
+    text-align: center;
+    color: cyan;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+h4 {
+    text-align: center;
+    color: cyan;
+    font-size: 40px;
+    padding-top: 20px;
+}
